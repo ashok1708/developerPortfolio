@@ -6,7 +6,7 @@
 <p align="center"> 
   <kbd>
   	<a href="https://ashutosh1919.github.io" target="_blank">
-		<img src="images/menu.PNG"></img>
+		<img src="images/menu.png"></img>
 	</a>
   </kbd>
 </p>
