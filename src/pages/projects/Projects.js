@@ -9,7 +9,7 @@ import './Projects.css';
 
 const projectsHeader = {
     title: "Projects",
-    description: "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    description: "My projects makes use of vast variety of latest technology tools. My best experience is to create Android projects and deploy them to Mobile Applications using cloud infrastructure like AWS, Firebase etc.",
     avatar_image_path: "projects_image.svg"
 }
 
